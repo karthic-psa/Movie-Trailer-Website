@@ -1,8 +1,7 @@
 import webbrowser
 import os
 import re
-import webapp2
-import jinja2
+
 
 # Styles and scripting for the page
 main_page_head = '''
